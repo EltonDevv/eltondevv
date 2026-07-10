@@ -17,7 +17,7 @@ Sou um desenvolvedor apaixonado por tecnologia e inovação. A graduação em En
 
 ---
 
-## 🌐 Meu Ecossistema Tecnológico (Tech Ecosystem)
+## 🌐 Meu Ecossistema Tecnológico
 
 Como estudante focado em planejamento e arquitetura de software, gosto de organizar e aplicar minhas ferramentas de acordo com a etapa do ciclo de desenvolvimento:
 
@@ -66,10 +66,10 @@ Busco oportunidades para aplicar meus conhecimentos acadêmicos e práticos no d
 📬 Estou sempre aberto a conversas sobre novas linguagens, metodologias de software ou dicas sobre jogos RPG. Vamos conversar!
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/[SEU-USUARIO-AQUI]" target="_blank">
+  <a href="https://www.linkedin.com/in/elton-s-a12990265/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="mailto:[SEU-EMAIL-AQUI]@gmail.com">
+  <a href="mailto:eltonsouzaoliveira5@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
 </p>
