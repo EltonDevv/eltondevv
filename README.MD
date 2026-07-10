@@ -1,92 +1,94 @@
-<h1 data-importer="text" align="center">Olá, sou Elton 👋</h1>
-
-###
-
-<h3 data-importer="text" align="left">👩‍💻 Sobre mim</h3>
-
-###
-
-<p data-importer="text" align="left">Sou um Desenvolvedor focado em criar soluções completas e funcionais.<br>Atualmente, estudo Engenharia de Software na Jala University, uma instituição<br>americana que me proporciona uma base sólida em tecnologia e inovação. <br><br>- 🔭 Estou trabalhando como T.I...<br>- 📚 Estudando uma trolha de linguagens, frameworks mas principalmente SLDC e <br>planejamento de desenvolvimento de software em geral...<br>- ⚡ No meu raro tempo live eu jogo uns jogos ae, principalmente RPG e aventura...</p>
-
-###
-
-<h3 data-importer="text" align="left">🛠 Linguagens e ferramentas</h3>
-
-###
-
-<br clear="both">
-
-<div data-importer="techs" align="center">
-  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=angular" height="40" alt="angularjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=spring" height="40" alt="spring logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=cs" height="40" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=dotnet" height="40" alt="dot-net logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=php" height="40" alt="php logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=laravel" height="40" alt="laravel logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=wordpress" height="40" alt="wordpress logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40" alt="windows8 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=bash" height="40" alt="bash logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
+<div align="center">
+  <h1>Olá, eu sou o Elton! 👋</h1>
+  <p>
+    Desenvolvedor focado em criar soluções completas e funcionais | Estudante de <b>Engenharia de Software</b> na <b>Jala University</b>
+  </p>
 </div>
 
-###
+---
 
-<h3 data-importer="text" align="left">🔥   Meus Status :</h3>
+## 👩‍💻 Sobre mim
 
-###
+Sou um desenvolvedor apaixonado por tecnologia e inovação. A graduação em Engenharia de Software me proporciona uma base sólida para planejar e arquitetar sistemas escaláveis. 
 
-<div data-importer="stats" align="center">
-  <img src="https://raw.githubusercontent.com/eltondevv/eltondevv/stats-output/stats.svg?hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true&theme=aura&locale=pt-br&hide_border=false&order=1" height="250" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=eltondevv&locale=pt-br&mode=weekly&theme=aura&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+- 🔭 Trabalhando atualmente como profissional de T.I.
+- 📚 Focado em **SDLC (Ciclo de Vida de Desenvolvimento de Software)** e planejamento geral de projetos.
+- ⚡ No meu raro tempo livre, costumo explorar novos mundos em jogos de RPG e aventura.
+
+---
+
+## 🌐 Meu Ecossistema Tecnológico (Tech Ecosystem)
+
+Como estudante focado em planejamento e arquitetura de software, gosto de organizar e aplicar minhas ferramentas de acordo com a etapa do ciclo de desenvolvimento:
+
+### ⚙️ Backend & APIs
+Soluções robustas e regras de negócio:
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,spring,cs,dotnet,nodejs,php,laravel&theme=dark" alt="Backend" />
+  </a>
+</p>
+
+### 🖥️ Frontend & UI/UX
+Interfaces dinâmicas e experiência do usuário:
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ts,js,react,angular,html,css,tailwind,figma&theme=dark" alt="Frontend" />
+  </a>
+</p>
+
+### 🗄️ Bancos de Dados
+Modelagem, persistência e estruturação de informações:
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb&theme=dark" alt="Databases" />
+  </a>
+</p>
+
+### 🛠️ DevOps, Infraestrutura & Testes
+Controle de versão, deploy e testes de integração:
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,docker,linux,bash,postman&theme=dark" alt="DevOps" />
+  </a>
+</p>
+
+---
+
+## 🎯 Objetivo Profissional
+
+Busco oportunidades para aplicar meus conhecimentos acadêmicos e práticos no desenvolvimento de software. Meu objetivo é trabalhar em equipes colaborativas, focadas em metodologias ágeis e inovação técnica, enquanto continuo o meu crescimento construindo projetos de alto impacto.
+
+---
+
+## 🤝 Conecte-se Comigo!
+
+📬 Estou sempre aberto a conversas sobre novas linguagens, metodologias de software ou dicas sobre jogos RPG. Vamos conversar!
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/[SEU-USUARIO-AQUI]" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:[SEU-EMAIL-AQUI]@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+</p>
+
+---
+
+## 🔥 Minhas Estatísticas no GitHub
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/eltondevv/eltondevv/stats-output/stats.svg?hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true&theme=aura&locale=pt-br&hide_border=false&order=1" height="200" alt="Estatísticas do GitHub" />
+  <img src="https://streak-stats.demolab.com?user=eltondevv&locale=pt-br&mode=weekly&theme=aura&hide_border=false&border_radius=5&order=3" height="200" alt="Streak do GitHub" />
 </div>
 
-###
+<br>
 
-<picture data-importer="pacman">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/eltondevv/eltondevv/pacman-output/breakout-contribution-graph-dark.svg?game=breakout">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/eltondevv/eltondevv/pacman-output/breakout-contribution-graph.svg?game=breakout">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/eltondevv/eltondevv/pacman-output/breakout-contribution-graph.svg?game=breakout">
-</picture>
-
-###
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/eltondevv/eltondevv/pacman-output/breakout-contribution-graph-dark.svg?game=breakout">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/eltondevv/eltondevv/pacman-output/breakout-contribution-graph.svg?game=breakout">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/eltondevv/eltondevv/pacman-output/breakout-contribution-graph.svg?game=breakout">
+  </picture>
+</div>
